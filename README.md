@@ -1,16 +1,21 @@
-### Hi there 👋
+### Greetings, netizen. 🤓
 
-<!--
-**DiskTurbo/DiskTurbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Robson, but I like to go by DiskTurbo online.** I am a student of computers 🖥️; both the software and hardware aspects. This account is a display of my creations over the last couple of years, mostly some projects I created during my schooling. I also release some projects I just want people to have fun with.
 
-Here are some ideas to get you started:
+I've got years of programming experience, including languages such as:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+
+- C#
+
+- Java
+
+- Python
+
+- HTML/CSS
+
+- Javascript
+
+And that list will continue to grow for as long as I live.
+
+***Enjoy what's avaliable and I hope you look out for my future work!***
